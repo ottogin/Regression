@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python bot_train.py > res_train.txt

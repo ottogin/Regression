@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python bot_test.py > res_test.txt

@@ -1,0 +1,2 @@
+Level has been loaded: max_time = 1258935, n_features = 36, n_actions = 4
+Level score= 993.796265
